@@ -2,7 +2,7 @@
 
 <p align="center">
   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DripNowhy&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
-  <img height="160px" width="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DripNowhy&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
+  <img height="160px" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DripNowhy&show_icons=true&count_private=true&include_all_commits=true&theme=dracula" />
 </p>
 
 <picture>
