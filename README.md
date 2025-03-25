@@ -1,5 +1,6 @@
 # Hi 🤗
 
+My name is Yi Ding.
 Incoming PhD student @ Purdue CS
 
 <p align="center">
