@@ -1,6 +1,6 @@
 # Hi 🤗
 
-My name is Fan LIu.
+My name is Fan Liu.
 Incoming PhD student @ GT Math
 
 <p align="center">
